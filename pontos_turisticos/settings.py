@@ -130,5 +130,7 @@ MEDIA_ROOT = 'imagens'
 
 MEDIA_URL = '/media/'
 
+# teste
+
 
 
